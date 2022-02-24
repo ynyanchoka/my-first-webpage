@@ -1,15 +1,22 @@
 h1 {
-  color: blue;
+  color: purple;
   text-align: center;
 }
 h2 {
-  color: green;
+  color: red;
   font-style: italic;
   text-align: center;
 }
 p {
   font-family: sans-serif;
+  color: purple;
 }
 ul {
   line-height: 40px;
+}
+.intro {
+  font-style: italic;
+}
+image {
+  float: right;
 }
